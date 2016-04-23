@@ -1,0 +1,6 @@
+﻿  intSort.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\intsort\intsort\data.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\intsort\intsort\data.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\intsort\intsort\data.h(39): warning C4018: '<': signed/unsigned mismatch
+  IntSort.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 08\IntSort\Debug\IntSort.exe
+  IntSort.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 08\IntSort\Debug\IntSort.pdb (Partial PDB)

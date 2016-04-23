@@ -1,0 +1,7 @@
+﻿  destroyingCircles.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\sortabledestructor\sortabledestructor\sortablecircledata.h(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\sortabledestructor\sortabledestructor\sortablecircledata.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\sortabledestructor\sortabledestructor\sortablecircledata.h(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\sortabledestructor\sortabledestructor\sortablecircledata.h(100): warning C4018: '<': signed/unsigned mismatch
+  SortableDestructor.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 09\SortableDestructor\Debug\SortableDestructor.exe
+  SortableDestructor.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 09\SortableDestructor\Debug\SortableDestructor.pdb (Partial PDB)

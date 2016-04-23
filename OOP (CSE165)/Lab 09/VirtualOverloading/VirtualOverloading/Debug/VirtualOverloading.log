@@ -1,0 +1,4 @@
+﻿  operators.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\virtualoverloading\virtualoverloading\object.h(91): warning C4018: '<': signed/unsigned mismatch
+  VirtualOverloading.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 09\VirtualOverloading\Debug\VirtualOverloading.exe
+  VirtualOverloading.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 09\VirtualOverloading\Debug\VirtualOverloading.pdb (Partial PDB)

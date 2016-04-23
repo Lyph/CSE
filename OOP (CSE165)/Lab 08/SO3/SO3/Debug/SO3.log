@@ -1,0 +1,6 @@
+﻿  sortingParticipants.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\so3\so3\data.h(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\so3\so3\data.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\so3\so3\data.h(40): warning C4018: '<': signed/unsigned mismatch
+  SO3.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 08\SO3\Debug\SO3.exe
+  SO3.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 08\SO3\Debug\SO3.pdb (Partial PDB)

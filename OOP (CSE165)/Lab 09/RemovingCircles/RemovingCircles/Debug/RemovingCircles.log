@@ -1,0 +1,7 @@
+﻿  addingAndRemovingCircles.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\removingcircles\removingcircles\sortablecircledata.h(37): error C2065: 'a': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\removingcircles\removingcircles\sortablecircledata.h(37): error C2228: left of '.size' must have class/struct/union
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\removingcircles\removingcircles\sortablecircledata.h(37): note: type is 'unknown-type'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\removingcircles\removingcircles\sortablecircledata.h(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\removingcircles\removingcircles\sortablecircledata.h(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\removingcircles\removingcircles\sortablecircledata.h(82): warning C4018: '<': signed/unsigned mismatch

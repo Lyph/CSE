@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 10\typeid\typeid\source.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  TypeId.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 10\TypeId\Debug\TypeId.exe
+  TypeId.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 10\TypeId\Debug\TypeId.pdb (Partial PDB)

@@ -1,0 +1,42 @@
+﻿  selfDelete.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\x.h(6): error C2236: unexpected token 'class'. Did you forget a ';'?
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\x.h(6): error C2143: syntax error: missing ';' before '{'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\x.h(6): error C2447: '{': missing function header (old-style formal list?)
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\obj.h(7): error C2065: 'cout': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\obj.h(7): error C2273: 'function-style cast': illegal as right side of '->' operator
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\obj.h(7): error C2065: 'endl': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(8): error C2664: 'Obj::Obj(Obj &&)': cannot convert argument 1 from 'const char [5]' to 'const Obj &'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(8): note: Reason: cannot convert from 'const char [5]' to 'const Obj'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(8): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(9): error C2065: 'X': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(9): error C2059: syntax error: '>'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(9): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(678): note: see declaration of 'std::vector'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(9): error C2133: 'v': unknown size
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(9): error C2512: 'std::vector': no appropriate default constructor available
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(678): note: see declaration of 'std::vector'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(10): error C2061: syntax error: identifier 'X'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(10): error C2663: 'std::vector<_Ty,_Alloc>::push_back': 2 overloads have no legal conversion for 'this' pointer
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(11): error C2678: binary '[': no operator found which takes a left-hand operand of type 'std::vector' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1227): note: could be '_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::reference std::vector<_Ty,_Alloc>::operator [](_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(1211): note: or       '_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::const_reference std::vector<_Ty,_Alloc>::operator [](_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc_types::_Alloc>>::size_type) const'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(11): note: while trying to match the argument list '(std::vector, int)'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(15): error C2664: 'Obj::Obj(Obj &&)': cannot convert argument 1 from 'const char [5]' to 'const Obj &'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(15): note: Reason: cannot convert from 'const char [5]' to 'const Obj'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(15): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(16): error C2039: 'ref': is not a member of 'Obj'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\obj.h(4): note: see declaration of 'Obj'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(17): error C2065: 'X': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(17): error C2065: 'x1': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(17): error C2061: syntax error: identifier 'X'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(18): error C2065: 'X': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(18): error C2065: 'x2': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(18): error C2061: syntax error: identifier 'X'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(19): error C2065: 'x1': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(19): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(20): error C2065: 'x2': undeclared identifier
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(20): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(22): error C2039: 'n': is not a member of 'Obj'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\obj.h(4): note: see declaration of 'Obj'
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\selfdelete.cpp(24): error C2039: 'unref': is not a member of 'Obj'
+  c:\users\lyphc\desktop\cse\oop (cse165)\lab 11\self deleting objects\self deleting objects\obj.h(4): note: see declaration of 'Obj'

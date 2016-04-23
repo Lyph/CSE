@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\completedataclass\completedataclass\sortablecircledata.h(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\completedataclass\completedataclass\sortablecircledata.h(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\completedataclass\completedataclass\sortablecircledata.h(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 09\completedataclass\completedataclass\sortablecircledata.h(110): warning C4018: '<': signed/unsigned mismatch
+  CompleteDataClass.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 09\CompleteDataClass\Debug\CompleteDataClass.exe
+  CompleteDataClass.vcxproj -> C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\Lab 09\CompleteDataClass\Debug\CompleteDataClass.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+﻿code.obj : error LNK2005: _main already defined in AoC.obj
+FillVector.obj : error LNK2005: _main already defined in AoC.obj
+HelloWorld.obj : error LNK2005: _main already defined in AoC.obj
+Reverse.obj : error LNK2005: _main already defined in AoC.obj
+WordOccurance.obj : error LNK2005: _main already defined in AoC.obj
+Words.obj : error LNK2005: _main already defined in AoC.obj
+C:\Users\lyphc\Desktop\CSE\OOP (CSE165)\OOP Lab01\Debug\OOP Lab01.exe : fatal error LNK1169: one or more multiply defined symbols found

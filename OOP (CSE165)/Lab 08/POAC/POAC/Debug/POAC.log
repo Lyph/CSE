@@ -1,0 +1,3 @@
+﻿  generateCurves.cpp
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\poac\poac\generatecurves.h(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\lyphc\desktop\cse\oop (cse165)\lab 08\poac\poac\generatecurves.h(64): error C4703: potentially uninitialized local pointer variable 'vec' used
